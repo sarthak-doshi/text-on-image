@@ -3,7 +3,7 @@ Android Text On Image
 
 Simple Library for to add the text on 
 
-![Crop](https://github.com/SarthakDoshi04/text-on-image/blob/master/art/working.gif?raw=true  width="720" height="1280")
+<img src="https://github.com/SarthakDoshi04/text-on-image/blob/master/art/working.gif" width="720" height="1280">
 
 ## Usage
 1. Add it in your root build.gradle at the end of repositories:
