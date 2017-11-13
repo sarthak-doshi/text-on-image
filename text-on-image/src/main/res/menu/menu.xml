@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/setColor"
+        android:title="Change Color"
+        android:icon="@drawable/ic_color_lens_white_24dp"
+        app:showAsAction="always"/>
+<item android:title="SET"
+    android:id="@+id/setTextButton"
+    app:showAsAction="always"/>
+</menu>
